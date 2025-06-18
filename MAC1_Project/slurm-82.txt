@@ -1,0 +1,357 @@
+created virtual environment CPython3.10.13.final.0-64 in 2003ms
+  creator CPython3Posix(dest=/localscratch/awright.82.0/env, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/awright/.local/share/virtualenv)
+    added seed packages: pip==23.2.1, setuptools==68.0.0, wheel==0.41.1
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v4, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Requirement already satisfied: pip in /localscratch/awright.82.0/env/lib/python3.10/site-packages (23.2.1)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pip-25.0+computecanada-py3-none-any.whl
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 23.2.1
+    Uninstalling pip-23.2.1:
+      Successfully uninstalled pip-23.2.1
+Successfully installed pip-25.0+computecanada
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v4, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/asteval-1.0.6+computecanada-py3-none-any.whl
+Installing collected packages: asteval
+Successfully installed asteval-1.0.6+computecanada
+dictionaries_1.txt: Habit Report
+
+Habit review daily goals completed 4 times out of seven
+Habit stay off social media completed 2 times out of seven
+Habit hydrate hourly completed 3 times out of seven
+Habit study for 1 hour completed 5 times out of seven
+Habit stretch for 15 minutes completed 5 times out of seven
+Habit cook a healthy meal completed 6 times out of seven
+Habit gratitude journaling completed 3 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+					schedule appointments not completed (Monday)
+					update resume not completed (Monday)
+record study notes completed (Monday)
+organize files completed (Monday)
+prepare meeting notes completed (Tuesday)
+					finish assignment not completed (Tuesday)
+					organize workspace not completed (Tuesday)
+plan weekly goals completed (Tuesday)
+organize workspace completed (Wednesday)
+backup important files completed (Wednesday)
+practice presentation completed (Wednesday)
+submit application completed (Wednesday)
+					practice presentation not completed (Thursday)
+reply to emails completed (Thursday)
+organize workspace completed (Thursday)
+brainstorm project ideas completed (Thursday)
+					schedule appointments not completed (Friday)
+					organize workspace not completed (Friday)
+					pay bills not completed (Friday)
+update resume completed (Friday)
+					plan weekly goals not completed (Saturday)
+backup important files completed (Saturday)
+					organize files not completed (Saturday)
+					organize workspace not completed (Saturday)
+schedule appointments completed (Sunday)
+reply to emails completed (Sunday)
+record study notes completed (Sunday)
+					read industry news not completed (Sunday)
+dictionaries_2.txt: Habit Report
+
+Habit limit caffeine intake completed 5 times out of seven
+Habit hydrate hourly completed 5 times out of seven
+Habit review daily goals completed 3 times out of seven
+Habit plan meals completed 4 times out of seven
+Habit practice a hobby completed 4 times out of seven
+Habit cook a healthy meal completed 4 times out of seven
+Habit limit screen time before bed completed 2 times out of seven
+Habit take vitamins completed 2 times out of seven
+Habit do yoga completed 2 times out of seven
+Habit do a digital declutter completed 3 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+reply to emails completed (Monday)
+submit application completed (Monday)
+backup important files completed (Monday)
+practice presentation completed (Tuesday)
+					submit application not completed (Tuesday)
+					finish assignment not completed (Tuesday)
+					reply to emails not completed (Wednesday)
+pay bills completed (Wednesday)
+finish assignment completed (Wednesday)
+check in with team completed (Thursday)
+read industry news completed (Thursday)
+					organize workspace not completed (Thursday)
+read research paper completed (Friday)
+					pay bills not completed (Friday)
+check in with team completed (Friday)
+backup important files completed (Saturday)
+plan weekly goals completed (Saturday)
+log work hours completed (Saturday)
+					do coursework not completed (Sunday)
+submit application completed (Sunday)
+schedule appointments completed (Sunday)
+dictionaries_3.txt: Habit Report
+
+Habit take vitamins completed 1 times out of seven
+Habit limit caffeine intake completed 4 times out of seven
+Habit write a to-do list completed 3 times out of seven
+Habit cook a healthy meal completed 3 times out of seven
+Habit gratitude journaling completed 1 times out of seven
+Habit limit screen time before bed completed 5 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+					read research paper not completed (Monday)
+plan weekly goals completed (Monday)
+attend virtual class completed (Monday)
+					prepare meeting notes not completed (Tuesday)
+					organize files not completed (Tuesday)
+					attend virtual class not completed (Tuesday)
+pay bills completed (Wednesday)
+					brainstorm project ideas not completed (Wednesday)
+					read research paper not completed (Wednesday)
+					practice presentation not completed (Thursday)
+					backup important files not completed (Thursday)
+prepare meeting notes completed (Thursday)
+submit application completed (Friday)
+pay bills completed (Friday)
+read industry news completed (Friday)
+					practice presentation not completed (Saturday)
+pay bills completed (Saturday)
+read research paper completed (Saturday)
+do coursework completed (Sunday)
+brainstorm project ideas completed (Sunday)
+					finish assignment not completed (Sunday)
+dictionaries_4.txt: Habit Report
+
+Habit stretch for 15 minutes completed 3 times out of seven
+Habit cook a healthy meal completed 3 times out of seven
+Habit gratitude journaling completed 2 times out of seven
+Habit study for 1 hour completed 5 times out of seven
+Habit write a to-do list completed 3 times out of seven
+Habit limit caffeine intake completed 1 times out of seven
+Habit practice a hobby completed 2 times out of seven
+Habit review daily goals completed 2 times out of seven
+Habit go for a walk completed 3 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+					organize workspace not completed (Monday)
+					do coursework not completed (Monday)
+					read industry news not completed (Tuesday)
+plan weekly goals completed (Tuesday)
+pay bills completed (Wednesday)
+backup important files completed (Wednesday)
+prepare meeting notes completed (Thursday)
+attend virtual class completed (Thursday)
+finish assignment completed (Friday)
+attend virtual class completed (Friday)
+					read research paper not completed (Saturday)
+do coursework completed (Saturday)
+					submit application not completed (Sunday)
+attend virtual class completed (Sunday)
+dictionaries_5.txt: Habit Report
+
+Habit review daily goals completed 3 times out of seven
+Habit gratitude journaling completed 2 times out of seven
+Habit write a reflection completed 5 times out of seven
+Habit limit caffeine intake completed 2 times out of seven
+Habit go for a walk completed 1 times out of seven
+Habit study for 1 hour completed 2 times out of seven
+Habit plan meals completed 3 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+					brainstorm project ideas not completed (Monday)
+					update resume not completed (Monday)
+schedule appointments completed (Monday)
+					plan weekly goals not completed (Tuesday)
+prepare meeting notes completed (Tuesday)
+					submit application not completed (Tuesday)
+read industry news completed (Wednesday)
+brainstorm project ideas completed (Wednesday)
+schedule appointments completed (Wednesday)
+					log work hours not completed (Thursday)
+					prepare meeting notes not completed (Thursday)
+read industry news completed (Thursday)
+					pay bills not completed (Friday)
+					attend virtual class not completed (Friday)
+update resume completed (Friday)
+finish assignment completed (Saturday)
+prepare meeting notes completed (Saturday)
+pay bills completed (Saturday)
+					log work hours not completed (Sunday)
+do coursework completed (Sunday)
+organize files completed (Sunday)
+dictionaries_6.txt: Habit Report
+
+Habit study for 1 hour completed 3 times out of seven
+Habit write a gratitude list completed 2 times out of seven
+Habit limit screen time before bed completed 6 times out of seven
+Habit practice an instrument completed 4 times out of seven
+Habit eat 3 servings of vegetables completed 5 times out of seven
+Habit take a 10-minute walk completed 5 times out of seven
+Habit stretch for 5 minutes completed 4 times out of seven
+Habit spend 15 minutes decluttering completed 3 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+					plan meals not completed (Monday)
+					backup files not completed (Monday)
+attend online lecture completed (Monday)
+reply to emails completed (Tuesday)
+organize desk completed (Tuesday)
+backup files completed (Tuesday)
+					backup files not completed (Wednesday)
+submit assignment completed (Wednesday)
+plan meals completed (Wednesday)
+reply to emails completed (Thursday)
+submit assignment completed (Thursday)
+					call a friend not completed (Thursday)
+					organize desk not completed (Friday)
+attend online lecture completed (Friday)
+reply to emails completed (Friday)
+					attend online lecture not completed (Saturday)
+backup files completed (Saturday)
+organize desk completed (Saturday)
+plan meals completed (Sunday)
+submit assignment completed (Sunday)
+write blog post completed (Sunday)
+dictionaries_7.txt: Habit Report
+
+Habit eat 3 servings of vegetables completed 4 times out of seven
+Habit study for 1 hour completed 4 times out of seven
+Habit limit screen time before bed completed 4 times out of seven
+Habit spend 15 minutes decluttering completed 4 times out of seven
+Habit practice an instrument completed 4 times out of seven
+Habit stretch for 5 minutes completed 5 times out of seven
+Habit take a 10-minute walk completed 4 times out of seven
+Habit write a gratitude list completed 3 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+					organize desk not completed (Monday)
+plan meals completed (Monday)
+attend online lecture completed (Monday)
+organize desk completed (Tuesday)
+					attend online lecture not completed (Tuesday)
+write blog post completed (Tuesday)
+backup files completed (Wednesday)
+					write blog post not completed (Wednesday)
+					organize desk not completed (Wednesday)
+reply to emails completed (Thursday)
+					submit assignment not completed (Thursday)
+organize desk completed (Thursday)
+					write blog post not completed (Friday)
+					plan meals not completed (Friday)
+					attend online lecture not completed (Friday)
+attend online lecture completed (Saturday)
+					call a friend not completed (Saturday)
+organize desk completed (Saturday)
+					plan meals not completed (Sunday)
+					submit assignment not completed (Sunday)
+					reply to emails not completed (Sunday)
+dictionaries_8.txt: Habit Report
+
+Habit spend 15 minutes decluttering completed 6 times out of seven
+Habit eat 3 servings of vegetables completed 2 times out of seven
+Habit study for 1 hour completed 2 times out of seven
+Habit write a gratitude list completed 3 times out of seven
+Habit limit screen time before bed completed 4 times out of seven
+Habit take a 10-minute walk completed 2 times out of seven
+Habit stretch for 5 minutes completed 3 times out of seven
+Habit practice an instrument completed 2 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+					write blog post not completed (Monday)
+plan meals completed (Monday)
+call a friend completed (Monday)
+					submit assignment not completed (Tuesday)
+write blog post completed (Tuesday)
+plan meals completed (Tuesday)
+organize desk completed (Wednesday)
+attend online lecture completed (Wednesday)
+					submit assignment not completed (Wednesday)
+					plan meals not completed (Thursday)
+					write blog post not completed (Thursday)
+submit assignment completed (Thursday)
+reply to emails completed (Friday)
+					call a friend not completed (Friday)
+					submit assignment not completed (Friday)
+					attend online lecture not completed (Saturday)
+plan meals completed (Saturday)
+					organize desk not completed (Saturday)
+write blog post completed (Sunday)
+reply to emails completed (Sunday)
+					submit assignment not completed (Sunday)
+dictionaries_9.txt: Habit Report
+
+Habit limit screen time before bed completed 3 times out of seven
+Habit write a gratitude list completed 4 times out of seven
+Habit practice an instrument completed 4 times out of seven
+Habit eat 3 servings of vegetables completed 3 times out of seven
+Habit stretch for 5 minutes completed 2 times out of seven
+Habit take a 10-minute walk completed 3 times out of seven
+Habit study for 1 hour completed 3 times out of seven
+Habit spend 15 minutes decluttering completed 3 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+call a friend completed (Monday)
+submit assignment completed (Monday)
+					plan meals not completed (Monday)
+					backup files not completed (Tuesday)
+					organize desk not completed (Tuesday)
+					reply to emails not completed (Tuesday)
+					plan meals not completed (Wednesday)
+organize desk completed (Wednesday)
+reply to emails completed (Wednesday)
+					reply to emails not completed (Thursday)
+					call a friend not completed (Thursday)
+					backup files not completed (Thursday)
+					submit assignment not completed (Friday)
+					backup files not completed (Friday)
+					plan meals not completed (Friday)
+attend online lecture completed (Saturday)
+plan meals completed (Saturday)
+					reply to emails not completed (Saturday)
+backup files completed (Sunday)
+write blog post completed (Sunday)
+					submit assignment not completed (Sunday)
+dictionaries_10.txt: Habit Report
+
+Habit spend 15 minutes decluttering completed 3 times out of seven
+Habit study for 1 hour completed 7 times out of seven
+Habit eat 3 servings of vegetables completed 1 times out of seven
+Habit limit screen time before bed completed 5 times out of seven
+Habit stretch for 5 minutes completed 4 times out of seven
+Habit practice an instrument completed 1 times out of seven
+Habit write a gratitude list completed 4 times out of seven
+Habit take a 10-minute walk completed 6 times out of seven
+Task Report
+
+Completed Tasks				 Uncompleted Tasks
+					backup files not completed (Monday)
+plan meals completed (Monday)
+					submit assignment not completed (Monday)
+					reply to emails not completed (Tuesday)
+					plan meals not completed (Tuesday)
+backup files completed (Tuesday)
+					plan meals not completed (Wednesday)
+submit assignment completed (Wednesday)
+					call a friend not completed (Wednesday)
+					submit assignment not completed (Thursday)
+plan meals completed (Thursday)
+					backup files not completed (Thursday)
+					submit assignment not completed (Friday)
+					backup files not completed (Friday)
+reply to emails completed (Friday)
+					backup files not completed (Saturday)
+					submit assignment not completed (Saturday)
+call a friend completed (Saturday)
+reply to emails completed (Sunday)
+organize desk completed (Sunday)
+call a friend completed (Sunday)
